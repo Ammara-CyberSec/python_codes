@@ -23,7 +23,7 @@ I am learning Python from basic to advanced level. This repository contains my p
 
 To improve my Python programming skills and build a strong foundation for Cyber Security.
 
-<hr style="border: 1px solid #3670A0;" />
+---
+### 👩‍💻 Created by [![Ammara Fatima](https://img.shields.io/badge/Ammara%20Fatima-CyberSec?style=flat-square&logo=github&labelColor=24292e&color=3670A0)](https://github.com/Ammara-CyberSec)
 
-Created by **Ammara Fatima**
 
