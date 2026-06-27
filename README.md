@@ -4,7 +4,7 @@ Welcome to my Python Practice Repository! 👋
 
 I am learning Python from basic to advanced level. This repository contains my practice programs and coding exercises.
 
-## Topics Covered
+📌Topics Covered
 - Hello World
 - Variables
 - Strings
