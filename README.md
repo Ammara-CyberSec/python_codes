@@ -25,7 +25,7 @@ To improve my Python programming skills and build a strong foundation for Cyber 
 
 ---
 <p align="center">
-  Crafted  by <b>Ammara Fatima</b>
+  Created by <b>Ammara Fatima</b>
 </p>
 
 
