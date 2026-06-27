@@ -1,4 +1,5 @@
-# Python Practice
+# # <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> Python Practice
+Python Practice
 
 Welcome to my Python Practice Repository! 👋
 
@@ -18,7 +19,8 @@ I am learning Python from basic to advanced level. This repository contains my p
 - 📖 Dictionaries
 - ⏳ Sets (Coming Soon)
 
-## Goal
+## 🎯 Goal
+
 To improve my Python programming skills and build a strong foundation for Cyber Security.
 
 ---
