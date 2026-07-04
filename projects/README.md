@@ -1,3 +1,16 @@
-# Projects
+# Simple Calculator
 
-This folder contains all my Python projects.
+## Description
+This is a simple calculator project developed using Python.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Language
+Python
+
+## Author
+Ammara Fatima
