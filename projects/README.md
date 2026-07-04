@@ -1,4 +1,4 @@
-# Simple Calculator
+# 1 project Simple Calculator
 
 ## Description
 This is a simple calculator project developed using Python.
@@ -12,5 +12,3 @@ This is a simple calculator project developed using Python.
 ## Language
 Python
 
-## Author
-Ammara Fatima
