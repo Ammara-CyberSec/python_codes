@@ -1,14 +1,29 @@
-# 1 project Simple Calculator
+# Python Projects
 
-## Description
-This is a simple calculator project developed using Python.
+A collection of Python projects ranging from beginner to advanced level.
 
-## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
+## Topics Covered
+- Python Basics
+- Conditional Statements
+- Loops
+- Functions
+- Strings
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+- File Handling
+- Exception Handling
+- Object-Oriented Programming (OOP)
+- Modules & Packages
+- CSV & JSON
+- NumPy
+- Pandas
+- Mini Projects
+- Algorithms
+- Data Structures
+- Practice Programs
 
-## Language
-Python
-
+---
+### Author
+**Ammara Fatma**
