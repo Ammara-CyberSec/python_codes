@@ -1,12 +1,27 @@
-# Python Projects
+# 🐍 Python Projects
 
-A collection of Python projects ranging from beginner to advanced level.
+A collection of Python projects built to strengthen programming skills, problem-solving, and practical development.
 
-## Projects Included
+## 📂 Projects
 
-- Beginner
-. Calculator
-. 
+- 🧮 Arithmetic Calculator
+- ☕ Cafe Management System
+- 📰 Fake Headline Generator
+- 🎓 Student Grade Management System
+- 📊 Python & NumPy Fundamentals
+- 📚 Library Management System
+
+> 🚀 More Python projects will be added regularly.
+
 ---
-### Author
+
+## 🛠️ Technologies
+
+- 🐍 Python
+- 📊 NumPy
+
+---
+
+## 👩‍💻 Author
+
 **Ammara Fatma**
