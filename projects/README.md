@@ -24,4 +24,4 @@ A collection of Python projects built to strengthen programming skills, problem-
 
 ## 👩‍💻 Author
 
-**Ammara Fatma**
+**Ammara Fatima**
