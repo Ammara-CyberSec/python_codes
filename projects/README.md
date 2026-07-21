@@ -10,6 +10,7 @@ A collection of Python projects built to strengthen programming skills, problem-
 - 🎓 Student Grade Management System
 - 📊 Python & NumPy Fundamentals
 - 📚 Library Management System
+- 🏧 ATM Management System
 
 > 🚀 More Python projects will be added regularly.
 
