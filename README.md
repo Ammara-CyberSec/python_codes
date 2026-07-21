@@ -19,7 +19,7 @@ I am learning Python from basic to advanced level. This repository contains my p
 - 📖 Dictionaries
 - ⏳ Sets
 -
-**💡 Mini Projects
+ # 💡 Mini Projects
 ## 🎯 Goal
 
 To improve my Python programming skills and build a strong foundation for Cyber Security.
