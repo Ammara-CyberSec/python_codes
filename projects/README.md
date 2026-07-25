@@ -11,6 +11,7 @@ A collection of Python projects built to strengthen programming skills, problem-
 - 📊 Python & NumPy Fundamentals
 - 📚 Library Management System
 - 🏧 ATM Management System
+- 🎲 Guess-Number-Game
 
 > 🚀 More Python projects will be added regularly.
 
