@@ -12,6 +12,7 @@ A collection of Python projects built to strengthen programming skills, problem-
 - 📚 Library Management System
 - 🏧 ATM Management System
 - 🎲 Guess-Number-Game
+- 🔐 Generate Random Password 
 
 > 🚀 More Python projects will be added regularly.
 
