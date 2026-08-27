@@ -1,6 +1,6 @@
 ## 🏆 Certificates
 
-# 👋 Welcome!
+## 👋 Welcome!
 
 Welcome to my Certificates repository — a collection of my learning achievements and professional certifications.
 
@@ -10,7 +10,7 @@ Welcome to my Certificates repository — a collection of my learning achievemen
 
 🤖 AI Bootcamp for Beginners
 
-📜 Certificate: "Ammara Fatima — View Certificate" (./Ammara%20Fatima)
+📜 "Ammara Fatima — View Certificate" (./Ammara%20Fatima.pdf)
 
 ---
 
