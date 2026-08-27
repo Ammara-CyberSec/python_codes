@@ -1,18 +1,22 @@
-🏆 Certificates
+## 🏆 Certificates
 
-A collection of my professional and technical certificates.
+# 👋 Welcome!
 
-📜 AI Bootcamp for Beginners
-
-- Duration: 6 July 2026 – 31 July 2026
-- Field: Artificial Intelligence
-- Achievement: Certificate of Appreciation
-
-📄 "View Certificate" (./AI-Bootcamp-for-Beginners-Certificate.png)
+Welcome to my Certificates repository — a collection of my learning achievements and professional certifications.
 
 ---
 
-👩‍💻 Author
+## 🎓 Featured Certificate
+
+🤖 AI Bootcamp for Beginners
+
+📜 Certificate: "Ammara Fatima — View Certificate" (./Ammara%20Fatima)
+
+---
+
+## 👩‍💻 Author
 
 Ammara Fatima
 BS Cyber Security Student
+
+# ⭐ Learning • Building • Growing
