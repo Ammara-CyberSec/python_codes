@@ -10,7 +10,8 @@ Welcome to my Certificates repository — a collection of my learning achievemen
 
 🤖 AI Bootcamp for Beginners
 
-📜 "Ammara Fatima — View Certificate" (./Ammara%20Fatima.pdf)
+📜 [Ammara Fatima — View Certificate](./Ammara%20Fatima.pdf)
+
 
 ---
 
